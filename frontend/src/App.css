@@ -1,0 +1,9 @@
+.custom-link {
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Inherit the color from the parent */
+  }
+
+  .custom-height{
+    height: 400px;
+    margin-top: 100px;
+  }
