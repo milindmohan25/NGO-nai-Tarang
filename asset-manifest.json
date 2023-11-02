@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/NGO-nai-Tarang/frontend/static/css/main.74363089.css",
+    "main.js": "/NGO-nai-Tarang/frontend/static/js/main.731c7794.js",
+    "static/media/p5.jpeg": "/NGO-nai-Tarang/frontend/static/media/p5.34263895d70e0876f9c5.jpeg",
+    "static/media/p4.jpeg": "/NGO-nai-Tarang/frontend/static/media/p4.454b089cd6b2e3f5606f.jpeg",
+    "static/media/p1.jpeg": "/NGO-nai-Tarang/frontend/static/media/p1.4cf2e1c774bc43555358.jpeg",
+    "static/media/p6.jpeg": "/NGO-nai-Tarang/frontend/static/media/p6.6b0984babe8841369600.jpeg",
+    "static/media/p2.jpeg": "/NGO-nai-Tarang/frontend/static/media/p2.03266772981026b6247f.jpeg",
+    "static/media/p3.jpeg": "/NGO-nai-Tarang/frontend/static/media/p3.2b392ab97f887e1a648f.jpeg",
+    "index.html": "/NGO-nai-Tarang/frontend/index.html",
+    "main.74363089.css.map": "/NGO-nai-Tarang/frontend/static/css/main.74363089.css.map",
+    "main.731c7794.js.map": "/NGO-nai-Tarang/frontend/static/js/main.731c7794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74363089.css",
+    "static/js/main.731c7794.js"
+  ]
+}
